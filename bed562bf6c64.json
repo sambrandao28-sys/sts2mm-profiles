@@ -1,0 +1,172 @@
+{
+  "id": "c5804b7b-ccc1-4260-9a3a-d28951484306",
+  "name": "MODPACK AKIBOU",
+  "game_version": "0.107.1",
+  "created_by": "sambrandao28-sys",
+  "mods": [
+    {
+      "mod_version_id": "97976da1-5abf-483a-99b0-4b2e11afbe96",
+      "name": "BaseLib",
+      "version": "v3.4.7",
+      "source": null,
+      "hash": "55863ca6adc30a61a7544874e157a519ffe148ccf2b18025947609c4bff813ce",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/sambrandao28-sys/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.7_6ceb1f4e.zip",
+      "bundle_sha256": "6ceb1f4eb03a17a890b7bb00bcb4111282370403d6e9046628e50352e06fc2fa"
+    },
+    {
+      "mod_version_id": "6fad5fb4-6a53-493d-9fe1-57576fa72451",
+      "name": "Codex Endless Mode",
+      "version": "0.2.22",
+      "source": null,
+      "hash": "abe99fe53d2b7e3d7f00f0414f830887e77773b62e717165251eae8d19985889",
+      "files": [
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.config",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.dll",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.json"
+      ],
+      "folder_name": "codex.sts2.endlessmode",
+      "mod_id": "codex.sts2.endlessmode",
+      "enabled": true,
+      "bundle_url": "https://github.com/sambrandao28-sys/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.2.22_9794cecd.zip",
+      "bundle_sha256": "9794cecdb1787ed8e3ae6f11ee7a86384dda3e87ef6ad51ce1f94de39f114b04"
+    },
+    {
+      "mod_version_id": "120ec45e-8988-4a5f-b23a-7e9900aac4ec",
+      "name": "Ancients Awakened",
+      "version": "v1.2.5",
+      "source": null,
+      "hash": "dc4c27d7688dd6762ee25a49c20398b5fc8b4e7bcbe482ecc93006bee6479cb9",
+      "files": [
+        "AncientsAwakened\\AncientsAwakened.dll",
+        "AncientsAwakened\\AncientsAwakened.json",
+        "AncientsAwakened\\AncientsAwakened.pck"
+      ],
+      "folder_name": "AncientsAwakened",
+      "mod_id": "AncientsAwakened",
+      "enabled": true,
+      "bundle_url": "https://github.com/sambrandao28-sys/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.2.5_745ca9e1.zip",
+      "bundle_sha256": "745ca9e1fc2577e821d2a11b87e33056b999556d06f9089ac3e9180404724e57"
+    },
+    {
+      "mod_version_id": "b0024f1a-ccc7-4357-ad80-f59c757d878b",
+      "name": "Downfall",
+      "version": "0.1.20",
+      "source": null,
+      "hash": "22dbb078c3a641c9b3818e78d0cfb896ee9031b57c1a92902939bed0ea787257",
+      "files": [
+        "Downfall\\Downfall.dll",
+        "Downfall\\Downfall.json",
+        "Downfall\\Downfall.pck"
+      ],
+      "folder_name": "Downfall",
+      "mod_id": "Downfall",
+      "enabled": true,
+      "bundle_url": "https://github.com/sambrandao28-sys/sts2mm-profiles/releases/download/bundles/Downfall_v0.1.20_e1bde66c.zip",
+      "bundle_sha256": "e1bde66ca759d65f2e6e551236bc3437cdae05c5083c99f4989470c2ca98c507"
+    },
+    {
+      "mod_version_id": "48182fd5-61a5-4da4-b4b9-5aee63c5d375",
+      "name": "Hades Ancients",
+      "version": "v0.8.1",
+      "source": null,
+      "hash": "e61a877c27feaa62ef40653a262a3784ea4941348e35b25708a01864fe9a3786",
+      "files": [
+        "HadesAncients\\HadesAncients.dll",
+        "HadesAncients\\HadesAncients.json",
+        "HadesAncients\\HadesAncients.pck"
+      ],
+      "folder_name": "HadesAncients",
+      "mod_id": "HadesAncients",
+      "enabled": true,
+      "bundle_url": "https://github.com/sambrandao28-sys/sts2mm-profiles/releases/download/bundles/Hades_Ancients_v0.8.1_03ab8db7.zip",
+      "bundle_sha256": "03ab8db717564e6f816bf85e06ff21be13b4dd95f021208fddec70ad07df2aa8"
+    },
+    {
+      "mod_version_id": "e50dee22-6ec2-42cd-b531-bb310e44d390",
+      "name": "Hextech Mayhem / 海克斯大乱斗",
+      "version": "0.9.7",
+      "source": null,
+      "hash": "b62192b8001bad3f900941b6f94c5eca65f9d9473227c3632f822c05b1b6b39d",
+      "files": [
+        "3747501308 ARAM_ Mayhem\\hextech-runes-variants.manifest",
+        "3747501308 ARAM_ Mayhem\\HextechRunes.dll",
+        "3747501308 ARAM_ Mayhem\\HextechRunes.json",
+        "3747501308 ARAM_ Mayhem\\HextechRunes.pck",
+        "3747501308 ARAM_ Mayhem\\lib\\0.107.1\\compat-target.txt",
+        "3747501308 ARAM_ Mayhem\\lib\\0.107.1\\HextechRunes.dll",
+        "3747501308 ARAM_ Mayhem\\lib\\0.110.0\\compat-target.txt",
+        "3747501308 ARAM_ Mayhem\\lib\\0.110.0\\HextechRunes.dll",
+        "3747501308 ARAM_ Mayhem\\lib\\0.111.0\\compat-target.txt",
+        "3747501308 ARAM_ Mayhem\\lib\\0.111.0\\HextechRunes.dll"
+      ],
+      "folder_name": "3747501308 ARAM_ Mayhem",
+      "mod_id": "HextechRunes",
+      "enabled": true,
+      "bundle_url": "https://github.com/sambrandao28-sys/sts2mm-profiles/releases/download/bundles/Hextech_Mayhem___._v0.9.7_a11e6787.zip",
+      "bundle_sha256": "a11e6787dfa92576a94e24d2a51aff6795ffe5425b0d3268b78d47f74aa4dfb2"
+    },
+    {
+      "mod_version_id": "45cf3716-ae2f-49b0-8c57-f521ad587c42",
+      "name": "RemoveMultiplayerPlayerLimit",
+      "version": "0.1.7",
+      "source": null,
+      "hash": "b91ac9b59956d06e864a94c2fd04217eb5d8f4471688ebfe4069148e0f55c1fc",
+      "files": [
+        "RemoveMultiplayerPlayerLimit\\config.ini",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.dll",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.json",
+        "RemoveMultiplayerPlayerLimit\\RemoveMultiplayerPlayerLimit.pck"
+      ],
+      "folder_name": "RemoveMultiplayerPlayerLimit",
+      "mod_id": "RemoveMultiplayerPlayerLimit",
+      "enabled": true,
+      "bundle_url": "https://github.com/sambrandao28-sys/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_cac7a852.zip",
+      "bundle_sha256": "cac7a85294c311fea2c6f7e235c86c811c6d91046b04c2a99bc89564827ba8e3"
+    },
+    {
+      "mod_version_id": "9ea23d86-5c0c-42b5-bf3e-dfb89311ca24",
+      "name": "塔1BOSS先古之民",
+      "version": "1.3.0",
+      "source": null,
+      "hash": "744c49980f6ae4dabc62144df62d7f49ffa02b039abd401d4fe6b26db8c32b79",
+      "files": [
+        "SlayTheSpireBossAncients\\StsBossAncients.dll",
+        "SlayTheSpireBossAncients\\StsBossAncients.json",
+        "SlayTheSpireBossAncients\\StsBossAncients.pck"
+      ],
+      "folder_name": "SlayTheSpireBossAncients",
+      "mod_id": "StsBossAncients",
+      "enabled": true,
+      "bundle_url": "https://github.com/sambrandao28-sys/sts2mm-profiles/releases/download/bundles/1BOSS._v1.3.0_063bf1dd.zip",
+      "bundle_sha256": "063bf1dd027208eefd5424c9889237e53177a122ac46efa88a653742ad55714b"
+    },
+    {
+      "mod_version_id": "e82181f4-5cc7-4c17-998a-d6162f2e8823",
+      "name": "帕秋莉库",
+      "version": "1.8.0",
+      "source": null,
+      "hash": "92d42c111b821f1abcc54be538fc955925e4278e03068141583e88ecdfc0ac97",
+      "files": [
+        "Patchoulib\\Patchoulib.dll",
+        "Patchoulib\\Patchoulib.json",
+        "Patchoulib\\Patchoulib.pck"
+      ],
+      "folder_name": "Patchoulib",
+      "mod_id": "Patchoulib",
+      "enabled": true,
+      "bundle_url": "https://github.com/sambrandao28-sys/sts2mm-profiles/releases/download/bundles/_v1.8.0_502b1c88.zip",
+      "bundle_sha256": "502b1c88f19618a5c7496d1963b5bfe051182f518566ef37447cebdd5c08f231"
+    }
+  ],
+  "created_at": "2026-10-08T11:17:00.425274100Z",
+  "updated_at": "2026-10-08T11:59:07.603584700Z",
+  "public": false
+}
